@@ -1,5 +1,4 @@
 <div align="center">
-  <h1>John Samelson</h1>
   <img src="https://github.com/SouCode/SouCode/assets/93101540/0986073b-2cc9-4cad-8671-89960d7b2457" alt="Profile Image">
   <h2>Software Sorcerer (Developer/Finance Enthusiast)</h2>
 </div>
