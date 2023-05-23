@@ -5,7 +5,7 @@
 </div>
 
   <p align="center">
-      👋 Hello there! I'm [Your Name], a Junior Network Engineer with a passion for coding and a strong desire to transition into a software development role. I'm currently on an exciting journey to become a well-rounded developer and expand my skills beyond networking.
+      👋 Hello there! I'm John Samelson, a Junior Network Engineer with a passion for coding and a strong desire to transition into a software development role. I'm currently on an exciting journey to become a well-rounded developer and expand my skills beyond networking.
   </p>
 
   <p align="center">
