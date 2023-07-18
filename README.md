@@ -4,35 +4,18 @@
 </div>
 
   <p align="center">
-      👋 Hello there! I'm John Samelson, a Network Engineer with a passion for coding and a strong desire to transition into a software development role. I'm currently on an exciting journey to become a well-rounded developer and expand my skills beyond networking.
-  </p>
-
-  <p align="center">
-  💻 My areas of interest lie in building finance applications, web scraping, and developing Discord server bots. I find joy in leveraging technology to simplify financial processes and make data-driven decisions.
-  </p>
-
-<div align="center">
-  <details>
-    <summary><strong>Please Click ~ Read More</strong></summary>
+      Hey, I'm John Samelson, a Software Developer recently graduated from General Assembly bootcamp. I'm passionate about creating mobile applications that       deliver exceptional user experiences. This GitHub repository showcases my projects, highlighting my skills in mobile app development.
+                          Thank you for stopping by and I hope you find my projects inspiring and valuable!
     
-  <p align="center">
-      🎓 I'm soon to be a proud graduate of the General Assembly Coding Bootcamp, where I've acquired a solid foundation in software development and problem-solving. Throughout my coding journey, I've discovered the power of programming in solving everyday challenges and improving my own life. Now, my goal is to utilize my skills to assist and empower others.
+                                                        Happy Hacking! 
   </p>
 
-  <p align="center">
-      🌟 If you're looking for someone who is driven, curious, and eager to learn, you've come to the right place. I'm constantly seeking new opportunities to enhance my technical expertise and contribute to exciting projects.
-  </p>
 
-  <p align="center">
-      📫 Feel free to connect with me on GitHub and let's embark on this coding adventure together!
-  </p>
-  </details>
-</div>
 
 
 
 <div align="center">
-  <h3>Programming Languages and Tools</h3>
+  <h3 align="center">  Programming Languages and Tools</h3>
   <hr style="border-color: rgba(0, 0, 0, 0.2);">
   <p>
     <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" width="50" height="50" style="margin-right: 20px;">
