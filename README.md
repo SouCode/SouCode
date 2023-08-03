@@ -4,7 +4,7 @@
 </div>
 
   <p align="center">
-      Hey, I'm John Samelson, a Software Developer recently graduated from General Assembly bootcamp. I'm passionate about creating mobile applications that       deliver exceptional user experiences. This GitHub repository showcases my projects, highlighting my skills in mobile app development.
+      Hey, I'm John Samelson, a Software Developer recently graduated from General Assembly bootcamp. I'm passionate about developing APIs and mobile applications that deliver exceptional user experiences. This GitHub repository showcases my projects, highlighting my skills in mobile app development.
                           Thank you for stopping by and I hope you find my projects inspiring and valuable!
     
                                                         Happy Hacking! 
