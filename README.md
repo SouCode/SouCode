@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/SouCode/SouCode/assets/93101540/0986073b-2cc9-4cad-8671-89960d7b2457" alt="Profile Image">
-  <h2>Software Sorcerer (Full-Stack API Developer)</h2>
+  <h2>Software Sorcerer (Full-Stack & API Developer)</h2>
 </div>
 
   <p align="center">
