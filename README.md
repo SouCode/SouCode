@@ -4,8 +4,7 @@
 </div>
 
   <p align="center">
-      Hey, I'm John Samelson, a Software Developer recently graduated from General Assembly bootcamp. I'm passionate about developing APIs and mobile applications that deliver exceptional user experiences. I am currently learning React Native, this GitHub repository showcases my projects, highlighting my skills in mobile app development. .
-                          Thank you for stopping by and I hope you find my projects inspiring and valuable!
+      Hi! im John Samelson, I'm a Network Admin with some full stack development knowledge from General Assembly. In my role, I'm continuously learning, especially about cybersecurity and systems administration. I'm excited about implementing automation projects at work, aiming to bring a bit more efficiency to what we do.
     
                                                         Happy Hacking! 
   </p>
