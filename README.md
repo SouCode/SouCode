@@ -5,7 +5,3 @@
 
   <p align="center">
       Hi! im John Samelson, I'm a Network Admin with some full stack development knowledge from General Assembly. In my role, I'm continuously learning, especially about cybersecurity and systems administration. I'm excited about implementing automation projects at work, aiming to bring a bit more efficiency to what we do.
-    
-                                                        Happy Hacking! 
-  </p>
-
